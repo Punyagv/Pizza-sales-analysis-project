@@ -3,7 +3,7 @@
 
 ### Overview
 
-This project delves into key indicators of pizza sales to extract valuable insights into business performance. Our analysis incorporates SQL queries within SQL Server Management Studio (SSMS) for data extraction and Power BI for dynamic visualizations. The raw data for this analysis is sourced from [Fast Track Data Analyst Boot Camp].
+This project delvelops into key indicators of pizza sales to extract valuable insights into business performance. Our analysis incorporates SQL queries within SQL Server Management Studio (SSMS) for data extraction and Power BI for dynamic visualizations. The raw data for this analysis is sourced from [Fast Track Data Analyst Boot Camp].
 
 The project initiation involves a robust analysis utilizing SQL queries in SSMS, with a specific focus on extracting key performance indicators (KPIs) from our sales data. This crucial step includes data processing and computation to derive metrics that form the backbone of our analysis. With the KPIs at our disposal, we seamlessly transition to Power BI for creating dynamic and interactive dashboard visualizations.
 
